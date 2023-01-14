@@ -3,7 +3,15 @@
 ### Get started
 ### How to run?
 ### 0. Make sure you have python installed
-### 1. There are two ways to run
+### 1. Install packages
+```shell
+pip install -r requirements.txt
+```
+or
+```shell
+pip install GitPython
+```
+### 2. There are two ways to run
 ### Method1:
 Copy and paste your .git file path to main.py line 24. For example
 ```python
